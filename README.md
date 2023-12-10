@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-Recommened movies using content/popularity based filtering by computing Cosine Similarity.
+Recommend movies using content/popularity based filtering by computing Cosine Similarity.
